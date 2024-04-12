@@ -1,4 +1,4 @@
-👋 Hi, I’m @beepzilla, an ex-type 1 wildland firefighter turned coder. After hanging up my fire gear, I rekindled my childhood coding skills and teamed up with a Pepe enthusiast from across the globe. We've been pushing the boundaries of technology and have created the OddPepes ecosystem—home to Pepe collectors cards and the $KEKEL currency, with a novel deflationary mechanism to preserve its value.
+👋 Hi, I’m @beepzilla,
 
 #### About This Repository
 This GitHub hosts UI components for our OddPepes platform, where users engage with NFTs—buying, selling, and staking them, all contract interactions happen in the PackShack.  The PackShack is the main app, and called the packshack cuz thats where you buy the pack.  while supplies last.  and we will be selling packs in waves.  The following points outline what you’ll find here and the vision driving this project:
