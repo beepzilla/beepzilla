@@ -1,6 +1,6 @@
 👋 Hi, I’m @beepzilla,
 
-#### About This Repository
+#### About This Github account
 This GitHub hosts UI components for our OddPepes platform, where users engage with NFTs—buying, selling, and staking them, all contract interactions happen in the PackShack.  The PackShack is the main app, and called the packshack cuz thats where you buy the pack.  while supplies last.  and we will be selling packs in waves.  The following points outline what you’ll find here and the vision driving this project:
 
 - **Ecosystem Overview**: OddPepes isn’t just a project; it's a playground for blockchain technology and NFT innovation. Here, collectors cards gain real power through a staking mechanism where rarity boosts rewards. This system is inspired by the long-standing internet quest for rare Pepes.  if you know you know.  if you dont start hunting for ultra rare pepes and see what you can find on google images.
