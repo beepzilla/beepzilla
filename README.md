@@ -81,7 +81,7 @@ and many more, web scraping, beautiful soup, so many great frameworks too many t
 
 - **Favorite Game**: Castle of the Winds for Windows.
 - **Guilty Pleasure**: Call of Duty Mobile Free-for-All.
-- - **the truth about my education**: free code camp and cs50 were crucial courses that laid my foundations about 6 years ago.  the rest is countless tutorials and simply learning by doing and making all the mistakes yourself.  
+- **The Truth About My Education**: free code camp baby.  and cs50.  countless tutorials.  and simply learning by doing.
 
 ## Currently Working On
 
