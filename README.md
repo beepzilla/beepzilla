@@ -4,10 +4,12 @@ Web3 fullstack developer, philosopher, ponderer, idea-maker, manifester extraord
 
 ## About Me
 
-- 🔭 I’m currently working on various concepts, from data processesors to games, to programmatic ai to Web3 projects.
-- 🌱 I’m always learning new technologies and improving my skills, if you have a challenging role I am interested.
+- 🔭 I’m currently working on various concepts, from data processesors to games, to programmatic ai to Web3 projects, and working on a custom os.
+- 🌱 I’m always learning new technologies and improving my skills, if you have a challenging role I am interested.  I also have some rather large ideas I definitely could use solid seed funding.  talk to me
 - 💡 I love working on innovative projects and solving complex problems.
 - 📫 Contact me at [beepzilla@gmail.com](mailto:beepzilla@gmail.com)
+
+- forgive me im usually busy af doing something building something, or debugging and pulling my hair out, sometimes its days or weeks when i get out of the tube i will respond as quickly as i can.
 
 
 ## Skills and Technologies
@@ -64,16 +66,16 @@ and many more, web scraping, beautiful soup, so many great frameworks too many t
 ## Interests and Hobbies
 
 - **Custom Art Fabrication**: Creating unique art pieces.
-- **Depth Psychology**: Exploring Jungian archetypes, folklore, and Joseph Campbell's works.
-- **Religious Studies**: Studied mythology and religion extensively.
+- **Depth Psychology**: Exploring Jungian archetypes, folklore, and Joseph Campbell's works, and discerning the ruling patterns of human reality.
+- **Religious Studies**: Studied mythology and religion extensively, its a daily fascination.
 - **Massage Therapy**: Trained in massage therapy, aromatherapy, and indigenous medicine ways in Hawaii.
-- **Natural Harmonics and Music Theory**: Fascinated by the science of music.
-- **Hotshot Firefighting**: Experienced in rigorous firefighting work.
-- **World Traveling**: Passionate about exploring new cultures and places.
+- **Natural Harmonics and Music Theory**: Fascinated by the science of music.  Avid composer.
+- **Hotshot Firefighting**: Experienced in years of rigorous firefighting for the United States Forest Service.
+- **World Traveling**: spent years exploring new cultures and places, fell in love with wife in peru.
 - **Indy Film Making**: Enjoy creating independent films.
-- **Hitch Hiking**: Love the adventure of hitch hiking.
-- **Professional Basketball**: Played professionally in Latin America.
-- **Downhill Skateboarding**: Consider myself a legend in this sport.
+- **Hitch Hiking**: Love the adventure of hitch hiking and traveling like a free bird.
+- **Professional Basketball**: Played basketball professionally for the Peruvan NBA. 
+- **Downhill Skateboarding Legend**: in my own mind.
 
 ## Fun Facts
 
