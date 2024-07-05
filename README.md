@@ -1,24 +1,50 @@
-👋 Hi, I’m @beepzilla,
+# Hi, I'm Josh Trembath 👋
 
-#### About This Github account
-This GitHub hosts UI components for our OddPepes platform, where users engage with NFTs—buying, selling, and staking them, all contract interactions happen in the PackShack.  The PackShack is the main app, and called the packshack cuz thats where you buy the pack.  while supplies last.  and we will be selling packs in waves.  The following points outline what you’ll find here and the vision driving this project:
+I'm a passionate Web3 fullstack developer always inventing, innovating, and figuring things out. Welcome to my GitHub profile!
 
-- **Ecosystem Overview**: OddPepes isn’t just a project; it's a playground for blockchain technology and NFT innovation. Here, collectors cards gain real power through a staking mechanism where rarity boosts rewards. This system is inspired by the long-standing internet quest for rare Pepes.  if you know you know.  if you dont start hunting for ultra rare pepes and see what you can find on google images.
+## About Me
 
-- **Project Genesis**: The idea was simple—create a deck of Pepe cards where each card's power is dictated by its rarity. Implementing staking rewards and tiers brought this concept to life, making each card more than just a digital collectible.  but a form of programmable money.  programmable funny money.  in a sense its the pinnacle of human evolution.  programmable funny money.  but the novel uses are endless so here is a demo of a good number of novel uses.
+- 🔭 I’m currently working on various Web3 projects.
+- 🌱 I’m always learning new technologies and improving my skills.
+- 💡 I love working on innovative projects and solving complex problems.
+- 📫 Contact me at [beepzilla@gmail.com](mailto:beepzilla@gmail.com)
 
-- **Development Philosophy**: I’m a self-taught developer, learning and refining on the go. This GitHub reflects both a development diary and a showcase of what can be achieved with creativity and code. It’s about evolving ideas into features that enhance our digital and financial interactions.
+## Skills and Technologies
 
-- **Project Status**: We're about four months into this experimental venture. It's thrilling to see it take shape, and embody the spirit of pioneering innovation in my own projects. Remember, it’s still experimental, so consider this if you're thinking of investing.
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Collaboration and Feedback**: Need to polish the UI? Have suggestions or want to learn more about the internals? Reach out at oddpepes@gmail.com. I’m usually swamped but will do my best to respond. If you’re keen to help enhance this project, your input and contributions are invaluable.
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- **Future Directions**: The ultimate aim? Transition governance to the OddPepes DAO, making it a fully autonomous and decentralized ecosystem. For now, I'll continue to tweak, enhance, and expand the project scope—keeping an eye on community feedback and technological advancements.
+### Game Development
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-- **Community and Open Source**: I'm a firm believer in open-source and transparency. If you’re curious about how something was done, just ask! I’m open to sharing knowledge and fostering a community where learning and development are accessible to all.  if you have an idea and you want to know how to do it, throw it at me and I will give you an overview of the path you might take from my experience failing so much but finally kinda breaking through in web3 development and coding in terms of smart contract interactions.  its easy once you see it.
+### Tools
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
-#### Enjoy Your Visit!
-Thanks for stopping by my GitHub. Whether you're here to contribute or just to explore, I appreciate your interest in OddPepes. It’s a project born from pepe passion, as I consider myself one of the OG meme lords of the 2000s— its been alot of work but super fun actually.  a labor of love. Dive into the code, explore the features.  the main codebases are set to private until its verified there could be no single security breach or feature with going fully transparant with all repositories used in this massive project.  its like apps within apps within apps.   ok this is the readme
+### Machine Learning and AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-Catch you in the Pepe-verse,  
-beepzilla
+## Let's Connect
+
+Feel free to reach out to me on my social media channels:
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+Thanks for stopping by!
+
+---
+_This README was generated with ❤️ by [Your Name](https://github.com/yourprofile)_
